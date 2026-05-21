@@ -1,4 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:恭喜！看到這個代表你的 GitHub 自動化雷達與 Google 行事曆完全接通了！連線測試成功！
+DTSTART:20260522T130000Z
+SUMMARY:🚕 [測試成功] 大巨蛋周杰倫演唱會散場測試
+UID:97e5558c-90fd-4d7b-86f6-cfd982e20225@97e5.org
+END:VEVENT
 END:VCALENDAR
