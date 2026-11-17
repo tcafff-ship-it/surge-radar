@@ -2,105 +2,111 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:地中海榮耀號/名勝世界返港！數千名旅客同時出關。外國自由行客專攻台北一日遊包車、台灣中南部客回程長途大單！建議在東岸旅客碼頭（中正路）或西岸旅客碼頭（港西街）蹲點！
-DTSTART:20270109T233000Z
-SUMMARY:💰 [神級大單] 郵輪返港：數千人下船潮
-UID:44e2d519-73a0-404d-8277-8fd362ce4e98@44e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:地中海榮耀號/名勝世界返港！數千名旅客同時出關。外國自由行客專攻台北一日遊包車、台灣中南部客回程長途大單！建議在東岸旅客碼頭（中正路）或西岸旅客碼頭（港西街）蹲點！
-DTSTART:20261226T233000Z
-SUMMARY:💰 [神級大單] 郵輪返港：數千人下船潮
-UID:c44e5773-4397-4906-88f9-a808a5d1d221@c44e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:地中海榮耀號/名勝世界返港！數千名旅客同時出關。外國自由行客專攻台北一日遊包車、台灣中南部客回程長途大單！建議在東岸旅客碼頭（中正路）或西岸旅客碼頭（港西街）蹲點！
-DTSTART:20270102T233000Z
-SUMMARY:💰 [神級大單] 郵輪返港：數千人下船潮
-UID:e01b3812-8896-4de6-bbaa-89d2fd37c62a@e01b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:地中海榮耀號/名勝世界返港！數千名旅客同時出關。外國自由行客專攻台北一日遊包車、台灣中南部客回程長途大單！建議在東岸旅客碼頭（中正路）或西岸旅客碼頭（港西街）蹲點！
-DTSTART:20261212T233000Z
-SUMMARY:💰 [神級大單] 郵輪返港：數千人下船潮
-UID:937c4c02-2430-4260-84af-b368948e3da9@937c.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:全台各地的包車與計程車正把旅客送往基隆港東/西岸碼頭。周邊港區道路（中正路、港西街）易塞車，回程可順便在碼頭等候基隆在地的市區短途單。
-DTSTART:20270108T060000Z
+DTSTART:20270115T060000Z
 SUMMARY:🚢 [基隆港爆單] 郵輪登船高峰：旅客進港
-UID:4954562c-80e6-4d8c-a79b-8553313cac37@4954.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:地中海榮耀號/名勝世界返港！數千名旅客同時出關。外國自由行客專攻台北一日遊包車、台灣中南部客回程長途大單！建議在東岸旅客碼頭（中正路）或西岸旅客碼頭（港西街）蹲點！
-DTSTART:20261219T233000Z
-SUMMARY:💰 [神級大單] 郵輪返港：數千人下船潮
-UID:5494909d-f762-4bf7-8d8d-f835954b1b8a@5494.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:地中海榮耀號/名勝世界返港！數千名旅客同時出關。外國自由行客專攻台北一日遊包車、台灣中南部客回程長途大單！建議在東岸旅客碼頭（中正路）或西岸旅客碼頭（港西街）蹲點！
-DTSTART:20261128T233000Z
-SUMMARY:💰 [神級大單] 郵輪返港：數千人下船潮
-UID:3d349c2c-18a8-48c3-b58a-7bf9de388604@3d34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:地中海榮耀號/名勝世界返港！數千名旅客同時出關。外國自由行客專攻台北一日遊包車、台灣中南部客回程長途大單！建議在東岸旅客碼頭（中正路）或西岸旅客碼頭（港西街）蹲點！
-DTSTART:20261121T233000Z
-SUMMARY:💰 [神級大單] 郵輪返港：數千人下船潮
-UID:f52b6ced-bcd2-4a6e-8a55-664bbee290b9@f52b.org
+UID:bbf611c6-f043-4b8d-ad99-e7664ca76f06@bbf6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:全台各地的包車與計程車正把旅客送往基隆港東/西岸碼頭。周邊港區道路（中正路、港西街）易塞車，回程可順便在碼頭等候基隆在地的市區短途單。
 DTSTART:20261127T060000Z
 SUMMARY:🚢 [基隆港爆單] 郵輪登船高峰：旅客進港
-UID:54f6d9e1-5bff-403a-8483-648df5b14c78@54f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:地中海榮耀號/名勝世界返港！數千名旅客同時出關。外國自由行客專攻台北一日遊包車、台灣中南部客回程長途大單！建議在東岸旅客碼頭（中正路）或西岸旅客碼頭（港西街）蹲點！
-DTSTART:20261205T233000Z
-SUMMARY:💰 [神級大單] 郵輪返港：數千人下船潮
-UID:c7cacae4-5fac-46f1-96ac-940d261c2245@c7ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:全台各地的包車與計程車正把旅客送往基隆港東/西岸碼頭。周邊港區道路（中正路、港西街）易塞車，回程可順便在碼頭等候基隆在地的市區短途單。
-DTSTART:20270101T060000Z
-SUMMARY:🚢 [基隆港爆單] 郵輪登船高峰：旅客進港
-UID:7108677c-6bcf-4a51-9931-96bf01992f30@7108.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:大巨蛋、小巨蛋、南港、基隆港郵輪已全數上線！
-DTSTART:20261117T130000Z
-SUMMARY:🚕 [系統正常] 四合一運將雷達運作中
-UID:7e6dd242-36ee-45f4-8d57-df5aa1f64f77@7e6d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:全台各地的包車與計程車正把旅客送往基隆港東/西岸碼頭。周邊港區道路（中正路、港西街）易塞車，回程可順便在碼頭等候基隆在地的市區短途單。
-DTSTART:20261204T060000Z
-SUMMARY:🚢 [基隆港爆單] 郵輪登船高峰：旅客進港
-UID:3ba0f875-49d4-469c-8e04-294b5db62421@3ba0.org
+UID:b927cc95-30ad-414d-94d5-0d4a59ab49ea@b927.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:全台各地的包車與計程車正把旅客送往基隆港東/西岸碼頭。周邊港區道路（中正路、港西街）易塞車，回程可順便在碼頭等候基隆在地的市區短途單。
 DTSTART:20261211T060000Z
 SUMMARY:🚢 [基隆港爆單] 郵輪登船高峰：旅客進港
-UID:cb88b86c-aa34-4066-8e44-9947599084fe@cb88.org
+UID:6bf8d9b3-df72-481b-9abd-1ada3a5265c9@6bf8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:全台各地的包車與計程車正把旅客送往基隆港東/西岸碼頭。周邊港區道路（中正路、港西街）易塞車，回程可順便在碼頭等候基隆在地的市區短途單。
-DTSTART:20261120T060000Z
+DTSTART:20270101T060000Z
 SUMMARY:🚢 [基隆港爆單] 郵輪登船高峰：旅客進港
-UID:399e25f3-e0e3-4b8e-afe8-33cee06cfc47@399e.org
+UID:bd83faee-e91a-4769-b168-1bcf1f3d2ef5@bd83.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:全台各地的包車與計程車正把旅客送往基隆港東/西岸碼頭。周邊港區道路（中正路、港西街）易塞車，回程可順便在碼頭等候基隆在地的市區短途單。
 DTSTART:20261225T060000Z
 SUMMARY:🚢 [基隆港爆單] 郵輪登船高峰：旅客進港
-UID:935a30f0-5e6c-484b-9c60-4be6e0b224e3@935a.org
+UID:fc39b7f1-4974-4a66-8f07-b00bd721b80f@fc39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:全台各地的包車與計程車正把旅客送往基隆港東/西岸碼頭。周邊港區道路（中正路、港西街）易塞車，回程可順便在碼頭等候基隆在地的市區短途單。
+DTSTART:20270108T060000Z
+SUMMARY:🚢 [基隆港爆單] 郵輪登船高峰：旅客進港
+UID:a37be029-ed25-40ac-ba62-b0b17a7da5c6@a37b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:全台各地的包車與計程車正把旅客送往基隆港東/西岸碼頭。周邊港區道路（中正路、港西街）易塞車，回程可順便在碼頭等候基隆在地的市區短途單。
+DTSTART:20261204T060000Z
+SUMMARY:🚢 [基隆港爆單] 郵輪登船高峰：旅客進港
+UID:ff265eeb-8df5-4fd3-9e09-a4560bc9cee8@ff26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:地中海榮耀號/名勝世界返港！數千名旅客同時出關。外國自由行客專攻台北一日遊包車、台灣中南部客回程長途大單！建議在東岸旅客碼頭（中正路）或西岸旅客碼頭（港西街）蹲點！
+DTSTART:20270102T233000Z
+SUMMARY:💰 [神級大單] 郵輪返港：數千人下船潮
+UID:c027fe5e-83a9-4e64-9e06-a6d12b9911a9@c027.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:全台各地的包車與計程車正把旅客送往基隆港東/西岸碼頭。周邊港區道路（中正路、港西街）易塞車，回程可順便在碼頭等候基隆在地的市區短途單。
 DTSTART:20261218T060000Z
 SUMMARY:🚢 [基隆港爆單] 郵輪登船高峰：旅客進港
-UID:21d472c9-40f0-49d2-9efa-81456ed7aec0@21d4.org
+UID:e778c100-e336-47a5-8543-64336d8572ed@e778.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:地中海榮耀號/名勝世界返港！數千名旅客同時出關。外國自由行客專攻台北一日遊包車、台灣中南部客回程長途大單！建議在東岸旅客碼頭（中正路）或西岸旅客碼頭（港西街）蹲點！
+DTSTART:20261121T233000Z
+SUMMARY:💰 [神級大單] 郵輪返港：數千人下船潮
+UID:9e8c755e-42c3-414d-a52d-ac97064de8c0@9e8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:地中海榮耀號/名勝世界返港！數千名旅客同時出關。外國自由行客專攻台北一日遊包車、台灣中南部客回程長途大單！建議在東岸旅客碼頭（中正路）或西岸旅客碼頭（港西街）蹲點！
+DTSTART:20261205T233000Z
+SUMMARY:💰 [神級大單] 郵輪返港：數千人下船潮
+UID:aa1934eb-ec08-4cb0-a276-03b7eeede652@aa19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:地中海榮耀號/名勝世界返港！數千名旅客同時出關。外國自由行客專攻台北一日遊包車、台灣中南部客回程長途大單！建議在東岸旅客碼頭（中正路）或西岸旅客碼頭（港西街）蹲點！
+DTSTART:20261219T233000Z
+SUMMARY:💰 [神級大單] 郵輪返港：數千人下船潮
+UID:6d4ba972-23b4-458b-b288-cce25cfeea0c@6d4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:地中海榮耀號/名勝世界返港！數千名旅客同時出關。外國自由行客專攻台北一日遊包車、台灣中南部客回程長途大單！建議在東岸旅客碼頭（中正路）或西岸旅客碼頭（港西街）蹲點！
+DTSTART:20261212T233000Z
+SUMMARY:💰 [神級大單] 郵輪返港：數千人下船潮
+UID:d31c2c6b-01a6-4aad-b9a1-26df46dfe32d@d31c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:地中海榮耀號/名勝世界返港！數千名旅客同時出關。外國自由行客專攻台北一日遊包車、台灣中南部客回程長途大單！建議在東岸旅客碼頭（中正路）或西岸旅客碼頭（港西街）蹲點！
+DTSTART:20261128T233000Z
+SUMMARY:💰 [神級大單] 郵輪返港：數千人下船潮
+UID:542e50a3-a32a-4a41-bb2c-aae971784e36@542e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:地中海榮耀號/名勝世界返港！數千名旅客同時出關。外國自由行客專攻台北一日遊包車、台灣中南部客回程長途大單！建議在東岸旅客碼頭（中正路）或西岸旅客碼頭（港西街）蹲點！
+DTSTART:20261226T233000Z
+SUMMARY:💰 [神級大單] 郵輪返港：數千人下船潮
+UID:0aa33757-31b0-43b0-9417-1bbe3731ffc6@0aa3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:地中海榮耀號/名勝世界返港！數千名旅客同時出關。外國自由行客專攻台北一日遊包車、台灣中南部客回程長途大單！建議在東岸旅客碼頭（中正路）或西岸旅客碼頭（港西街）蹲點！
+DTSTART:20270109T233000Z
+SUMMARY:💰 [神級大單] 郵輪返港：數千人下船潮
+UID:08c4621e-c618-4766-98e9-b84c202d91f0@08c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:全台各地的包車與計程車正把旅客送往基隆港東/西岸碼頭。周邊港區道路（中正路、港西街）易塞車，回程可順便在碼頭等候基隆在地的市區短途單。
+DTSTART:20261120T060000Z
+SUMMARY:🚢 [基隆港爆單] 郵輪登船高峰：旅客進港
+UID:78319682-d2c4-44f9-a798-4b4d50000ca6@7831.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大巨蛋、小巨蛋、南港、基隆港郵輪已全數上線！
+DTSTART:20261118T130000Z
+SUMMARY:🚕 [系統正常] 四合一運將雷達運作中
+UID:f15d6f98-8507-40cd-bba8-aeda98edefcb@f15d.org
 END:VEVENT
 END:VCALENDAR
